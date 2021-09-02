@@ -7,7 +7,7 @@ package com.hello;
 public class Helloworld {
 
     public static void main(String[] args) {
-        System.out.println("helloworld3");
+        System.out.println("");
         System.out.println("helloworld2");
         System.out.println("test");
         System.out.println("helloworld");
